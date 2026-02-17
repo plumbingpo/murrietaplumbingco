@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://murrietaplumbingco.com/sitemap.xml
